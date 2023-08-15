@@ -1,2 +1,2 @@
 transformers==4.28.0
-accelerate
+accelerate>=0.20.3

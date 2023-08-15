@@ -5,7 +5,7 @@ if __name__ == "__main__":
         setup_requires=["setuptools_scm"], 
         install_requires=[
             "transformers==4.28.0",
-            "accelerate"
+            "accelerate>=0.20.3"
         ],
         include_package_data=True
     )
